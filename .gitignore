@@ -1,0 +1,16 @@
+# Ignore Python bytecode
+__pycache__/
+botsort/
+videos/
+runs/
+# Ignore specific file types within folders, but not the folders themselves
+caches/*.pkl
+models/*.pt
+inputs/*.mp4
+outputs/*.mp4
+
+# (Optional) If you generate these folders but want to keep them in repo structure
+!caches/
+!models/
+!inputs/
+!outputs/
