@@ -1,4 +1,4 @@
-# Computer Vision Project: Player & Ball Detection with Re-identification
+# Computer Vision Project: Re-ldentification in a Single Feed
 
 ## 📌 Project Overview
 

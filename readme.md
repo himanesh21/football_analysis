@@ -1,4 +1,4 @@
-# ⚽ Football Player Tracking & Analysis
+# ⚽ Re-ldentification in a Single Feed
 
 This project combines **YOLOv11**, **ByteTrack**, and **BoT-SORT (with ReID)** to detect, track, and analyze players and the ball in football match videos. It also performs real-world speed & distance estimation, 2D pitch mapping, and final video annotation.
 
